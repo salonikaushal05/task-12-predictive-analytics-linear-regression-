@@ -1,4 +1,4 @@
-# task-12-predictive-analytics-linear-regression-
+# Task-12-predictive-analytics-linear-regression-
 # Task 12: Predictive Analytics using Linear Regression
 
 ##  Project Overview
